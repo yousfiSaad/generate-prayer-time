@@ -11,7 +11,7 @@
     "time"
   ],
   "author": "yousfi saad <yousfi.saad@gmail.com>",
-  "license": "ISC",
+  "license": "GPL-2.0",
   "dependencies": {
     "adhan": "^4.4.3"
   }
